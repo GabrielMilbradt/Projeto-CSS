@@ -1,4 +1,4 @@
-<h1 align="center">Easy Shopping</h1>
+<h1 align="center">Wide Coverage Location</h1>
 <br>
 <br>
 <h2  align="center">Projeto aprendido no <a href="https://rodolfomori.com.br/devclub"</a>DevClub</h2>
