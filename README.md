@@ -10,5 +10,5 @@
   </h3>
 
  
-<img src="https://github.com/GabrielMilbradt/Projeto-Easy-Shopping/blob/main/easy.jpeg?raw=true" />
+<img src="https://github.com/GabrielMilbradt/Projeto-Easy-Shopping/blob/main/img.projetocss.jpeg" />
 
